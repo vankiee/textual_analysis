@@ -1,4 +1,4 @@
-# computational_literary_analysis
+# The Garden Party and Dubliners: Punctuation is Style, Period.
 
 When we read prose, the aspect that strikes us most about the author’s writing style is perhaps their use of structure, symbolism, or vocabulary. While these stylistic devices deserve the appreciation they duly receive, there is one very often overlooked aspect of writing style—punctuation. Even in quantitative analysis of written text, punctuation is discarded along with stop words because they introduce ‘noise’ into the analysis process. However, when we take a look at a sentence, and strip it of everything except punctuation, it might be able to tell us something about the author’s style. For example,
 
